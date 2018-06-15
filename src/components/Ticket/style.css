@@ -1,0 +1,15 @@
+.stops {
+    
+    background-position: 100% 100%;
+    position: relative;
+}
+.stops::before{
+    position: absolute;
+    content: '';
+    right: -3px;
+    bottom: -9px;
+    width: 15px;
+    height: 15px;
+    background-image: url('../../img/shape.png');
+    background-repeat: no-repeat;
+}

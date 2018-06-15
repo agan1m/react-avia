@@ -1,0 +1,10 @@
+
+export const DATA_REQUEST = 'DATA_REQUEST'
+export const DATA_SUCCESS = 'DATA_SUCCESS'
+export const DATA_FAILER = 'DATA_FAILER'
+
+export const FILTER_STOPS_ONE = 'FILTER_STOPS_ONE'
+export const FILTER_STOPS_TWO = 'FILTER_STOPS_TWO'
+export const FILTER_STOPS_THREE = 'FILTER_STOPS_THREE'
+export const FILTER_STOPS = 'FILTER_STOPS'
+export const STOPS = 'STOPS'
